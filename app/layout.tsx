@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Wzs_file",
-  description: "เว็บไซต์แจกไฟล์ Wzs_file",
+  description: "เว็บไซต์ดาวน์โหลดไฟล์ Wzs_file",
 };
 
 export default function RootLayout({
